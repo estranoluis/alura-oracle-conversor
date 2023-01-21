@@ -14,4 +14,5 @@ Detalles del proyecto:
 - Se hace uso de Maven para la gestión de dependencias, particularmente para uso de la librería json.simple.
 
 <br>
-Puedes descargar el ejecutable desde [aquí](https://github.com/estranoluis/alura-oracle-conversor/releases/download/v1.0.0/ConversorJavaAlura.jar)
+
+Puedes descargar el ejecutable desde [aquí](https://github.com/estranoluis/alura-oracle-conversor/releases/download/v1.0.0/ConversorJavaAlura.jar).
